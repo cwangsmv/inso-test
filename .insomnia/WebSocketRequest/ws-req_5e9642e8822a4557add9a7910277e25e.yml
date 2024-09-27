@@ -1,0 +1,19 @@
+_id: ws-req_5e9642e8822a4557add9a7910277e25e
+type: WebSocketRequest
+parentId: wrk_57d21ec26ca949b38b19f479633b56d8
+modified: 1727417601447
+created: 1727417601447
+name: New WebSocket Request
+url: wss://ws.postman-echo.com/raw/
+metaSortKey: -1726215370840
+headers:
+  - name: User-Agent
+    value: insomnia/10.0.0
+authentication: {}
+parameters: []
+pathParameters: []
+settingEncodeUrl: true
+settingStoreCookies: true
+settingSendCookies: true
+settingFollowRedirects: global
+description: ""

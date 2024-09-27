@@ -1,0 +1,30 @@
+_id: req_97022bc633c441d49e1d9f87c67fecbf
+type: Request
+parentId: wrk_57d21ec26ca949b38b19f479633b56d8
+modified: 1727417601444
+created: 1727417601444
+url: https://graphql.postman-echo.com/graphql
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/graphql
+  text: ""
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/10.1.0-beta.0
+  - name: Content-Type
+    value: application/json
+authentication: {}
+preRequestScript: null
+metaSortKey: -1727281676945
+isPrivate: false
+pathParameters: []
+afterResponseScript: null
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

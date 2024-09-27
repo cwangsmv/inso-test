@@ -1,0 +1,31 @@
+_id: req_1be44baef4134de2b391d2f3a93251b9
+type: Request
+parentId: wrk_57d21ec26ca949b38b19f479633b56d8
+modified: 1727417601446
+created: 1727417601446
+url: ""
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_6b4c0fa7767749ec8e1287d9f7518453
+    name: ""
+    value: ""
+    description: ""
+    disabled: false
+headers:
+  - name: User-Agent
+    value: insomnia/10.1.0-beta.1
+authentication: {}
+preRequestScript: null
+metaSortKey: -1727343250344
+isPrivate: false
+pathParameters: null
+afterResponseScript: null
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,32 @@
+_id: req_cc1ad12ca6eb47eabcd5230542dde12d
+type: Request
+parentId: wrk_57d21ec26ca949b38b19f479633b56d8
+modified: 1727417601442
+created: 1727417601442
+url: wss://localhost:4000/graphql
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/graphql
+  text: '{"query":"query CurrentNumber {\n    currentNumber\n}\n\nsubscription
+    subscriptionNumber
+    {\n    numberIncremented\n}","operationName":"subscriptionNumber"}'
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/10.0.0
+  - name: Content-Type
+    value: application/json
+authentication: {}
+preRequestScript: null
+metaSortKey: -1726215043124
+isPrivate: false
+pathParameters: []
+afterResponseScript: null
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
